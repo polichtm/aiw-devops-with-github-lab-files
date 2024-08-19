@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/az400mp/3b3dbd01-aa1e-42f2-b654-7a0a33746cd7/012d2a58-5213-4359-8c00-a90ce6371dfd/_apis/work/boardbadge/b173c2d6-9901-420d-bd8e-fbe525ab7722)](https://dev.azure.com/az400mp/3b3dbd01-aa1e-42f2-b654-7a0a33746cd7/_boards/board/t/012d2a58-5213-4359-8c00-a90ce6371dfd/Microsoft.RequirementCategory)
 [![Board Status](https://dev.azure.com/aiw-devops/b4393b34-1522-4f56-927d-b36c987a368a/d61cbe7b-24e1-4406-a030-03c987d7705b/_apis/work/boardbadge/aa6e0a8c-29f7-422a-b669-1da941ed9880)](https://dev.azure.com/aiw-devops/b4393b34-1522-4f56-927d-b36c987a368a/_boards/board/t/d61cbe7b-24e1-4406-a030-03c987d7705b/Microsoft.RequirementCategory)
 # Contoso Traders
 
